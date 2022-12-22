@@ -6,7 +6,7 @@
     "antd": "^3.26.0",
     "gh-pages": "^2.1.1",
     "google-maps-react": "^2.0.2",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "lottie-web": "^5.6.2",
     "node-sass": "^4.13.0",
     "radar-sdk-js": "^1.1.0",
